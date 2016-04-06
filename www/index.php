@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="windows-1251">
@@ -13,6 +13,7 @@
             if($one == "") echo 2;
             if(strval($zero) == "") echo 3;
             if($zero === "") echo 4;
+	 	offfff
         ?>
     </body>
 </html>
